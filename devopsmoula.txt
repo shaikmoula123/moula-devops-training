@@ -1,3 +1,7 @@
 im happy that i have learnt how to move file from local repo to remote repo
 this is the first pull operaTion
+<<<<<<< HEAD
 thisisinlsd
+=======
+imaksjfneaasa
+>>>>>>> 8c617f2c837aacd1132db70382f324f43696711a
